@@ -10,7 +10,7 @@
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-mytamakikii.web.id-A8B5A2?style=for-the-badge&logo=safari&logoColor=white)](https://mytamakikii.web.id)
 [![GitHub](https://img.shields.io/badge/GitHub-pratama1246-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratama1246)
-[![Instagram](https://img.shields.io/badge/Instagram-@pratama1246-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratama1246)
+[![Instagram](https://img.shields.io/badge/Instagram-@perfectamafine-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/perfectamafine)
 
 <br/>
 
