@@ -26,7 +26,6 @@ nickname    : Tama
 location    : Kroya, Cilacap, Jawa Tengah 🇮🇩
 education   : D3 Teknik Informatika @ Politeknik Negeri Cilacap
 focus       : Full-Stack Web Dev + Networking/IT Infrastructure
-currently   : Building EcoStock AI (IT Festival 2026) 🌱
 hobbies     : K-Pop 🎵 | Korean Drama 📺 | Singing 🎤 | Aesthetic things ✨
 fun fact    : My keyboard has a name, my playlists have themes, my code has vibes
 ```
