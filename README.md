@@ -1,12 +1,14 @@
 <p><img src="assets/header.png" width="100%" alt="Pratama Putra Purwanto. Full-stack Development, Networking &amp; IT Support." /></p>
-<h1 align="center">Pratama Putra Purwanto</h1>
+<p align="center"><picture><source media="(max-width:600px)" srcset="assets/name-typing-mobile.svg" /><img src="assets/name-typing.svg" width="100%" alt="Pratama Putra Purwanto" /></picture></p>
 <p align="center">Full-stack Development · Networking · IT Support</p>
 <p align="center"><a href="https://mytamakikii.web.id"><img src="assets/portfolio-link.svg" height="44" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/perfectpratama/"><img src="assets/linkedin-link.svg" height="44" alt="LinkedIn" /></a> <a href="https://instagram.com/perfectamafine"><img src="assets/instagram-link.svg" height="44" alt="Instagram" /></a> <a href="mailto:pratamaputra6854@gmail.com"><img src="assets/email-link.svg" height="44" alt="Email" /></a></p>
 
 <p><picture><source media="(max-width:600px)" srcset="assets/intro-tab-mobile.svg" /><img src="assets/intro-tab.svg" width="100%" alt="A little about me" /></picture></p>
 
+<table class="about"><tbody><tr><td width="72%" valign="top">
 <p>I’m <strong>Tama</strong>, a Diploma III student in Informatics Engineering at <strong>Politeknik Negeri Cilacap</strong>, with a background in Computer and Network Engineering.</p>
 <p>I enjoy building applications and figuring out how things connect, from backend features to networking. My practical work also includes everyday IT support. I’m still exploring where I want to specialize, learning through coursework, projects, and practical work.</p>
+</td><td width="28%" valign="top" align="center"><a href="https://giphy.com/gifs/kpop-lee-sohee-riize-kVe84mNv2m37Acjgvo"><img src="assets/sohee.gif" width="200" alt="SOHEE from RIIZE, via GIPHY" /></a><br/><a href="https://giphy.com/gifs/kpop-lee-sohee-riize-kVe84mNv2m37Acjgvo">via GIPHY</a></td></tr></tbody></table>
 
 <p><picture><source media="(max-width:600px)" srcset="assets/stack-tab-mobile.svg" /><img src="assets/stack-tab.svg" width="100%" alt="My toolkit" /></picture></p>
 
