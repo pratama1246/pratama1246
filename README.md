@@ -1,4 +1,5 @@
 <p><img src="assets/header.png" width="100%" alt="Pratama Putra Purwanto. Full-stack Development, Networking &amp; IT Support." /></p>
+<h1 align="center">Pratama Putra Purwanto</h1>
 <p align="center">Full-stack Development · Networking · IT Support</p>
 <p align="center"><a href="https://mytamakikii.web.id"><img src="assets/portfolio-link.svg" height="44" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/perfectpratama/"><img src="assets/linkedin-link.svg" height="44" alt="LinkedIn" /></a> <a href="https://instagram.com/perfectamafine"><img src="assets/instagram-link.svg" height="44" alt="Instagram" /></a> <a href="mailto:pratamaputra6854@gmail.com"><img src="assets/email-link.svg" height="44" alt="Email" /></a></p>
 
